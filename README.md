@@ -1,6 +1,4 @@
-# walkabout-style
-
-Work in progress!
+# walkabout-style-no-labels
 
 ### To run locally:
 
